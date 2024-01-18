@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Camp Concierge</h1>
+<p>Returning valuable time to parents/guardians.</p>
+<p>Our mission is to create a one stop shop where parents or guardians can easily enroll their children in camps.</p>
+
+<style>
+
+</style>
