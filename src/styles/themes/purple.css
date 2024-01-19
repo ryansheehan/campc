@@ -1,0 +1,13 @@
+html {
+	--brand-purple: var(--purple-5);
+
+	--text-1-purple: var(--purple-9);
+	--text-2-purple: var(--purple-7);
+
+	--body-background-cc: var(--purple-0);
+
+	--surface-1-purple: var(--purple-3);
+	--surface-2-purple: var(--purple-1);
+	--surface-3-purple: var(--purple-2);
+	--surface-4-purple: var(--purple-3);
+}

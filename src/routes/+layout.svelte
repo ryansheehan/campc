@@ -2,4 +2,12 @@
 	import '../app.pcss';
 </script>
 
-<slot />
+<main>
+	<slot />
+</main>
+
+<style>
+	main {		
+		height: 100vh;
+	}
+</style>

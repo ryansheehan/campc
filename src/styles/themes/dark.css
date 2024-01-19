@@ -1,0 +1,13 @@
+html {
+	--brand-dark: var(--orange-3);
+
+	--text-1-dark: var(--gray-3);
+	--text-2-dark: var(--gray-5);
+
+	--body-background-dark: var(--gray-8);
+
+	--surface-1-dark: var(--gray-12);
+	--surface-2-dark: var(--gray-11);
+	--surface-3-dark: var(--gray-10);
+	--surface-4-dark: var(--gray-9);
+}

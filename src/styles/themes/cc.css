@@ -1,0 +1,13 @@
+html {
+	--brand-cc: var(--orange-4);
+
+	--text-1-cc: var(--gray-8);
+	--text-2-cc: var(--gray-10);
+
+	--body-background-cc: var(--brown-3);
+
+	--surface-1-cc: var(--brown-3);
+	--surface-2-cc: var(--brown-4);
+	--surface-3-cc: var(--brown-5);
+	--surface-4-cc: var(--brown-6);
+}
